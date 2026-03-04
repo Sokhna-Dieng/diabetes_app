@@ -6,7 +6,7 @@
 # joblib  #==1.3.2
 # scipy==1.11.4
 
-#deploiement en lignesur Render
+#deploiement en ligne sur Render
 flask==3.0.2
 numpy==1.26.4
 pandas==2.2.2

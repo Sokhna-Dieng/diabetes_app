@@ -57,3 +57,6 @@ if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
     #En production → PAS de debug=True
+
+    #commentaire
+    #L’application a été déployée en ligne via la plateforme cloud Render, permettant une accessibilité publique du modèle prédictif à travers une interface web interactive.
